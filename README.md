@@ -1,11 +1,11 @@
 # 02 (2020.09.14) - HTML wstęp
 ## -------INFO
 HTML + CSS
-
+`
 1. HTML ( url )
 2. CSS (kaskadowość, grupowanie, class, id)
 3. Multipages
-
+`
 https://www.w3schools.com/html/html_intro.asp
 
 https://miroslawzelent.pl/kurs-html/
