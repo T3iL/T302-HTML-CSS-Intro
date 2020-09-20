@@ -1,4 +1,4 @@
-# 01 (2020.09.14) - HTML wstęp
+# 02 (2020.09.14) - HTML wstęp
 ## -------INFO
 HTML + CSS
 
