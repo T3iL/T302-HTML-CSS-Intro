@@ -1,4 +1,4 @@
-# 02 - HTML CSS Layout
+# 02 - HTML CSS URL/URI
 ## -------INFO
 HTML + CSS
 ```
