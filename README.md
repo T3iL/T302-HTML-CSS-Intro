@@ -18,7 +18,7 @@ T30201 - Odwróć działanie znaczników <sup> i </sub> na stronie www
 
 T30202 - Dodaj interakcję do przycisku (div) polegającą na znikaniu elementu po najechaniu na niego kursorem myszy.
 
-T30202 - Przygotuj witrynę składającą się z trzech podstron pomiędzy którymi można przenosić się przy pomocy prostego menu
+T30203 - Przygotuj witrynę składającą się z trzech podstron pomiędzy którymi można przenosić się przy pomocy prostego menu
 ```
 ### --------Links
 
