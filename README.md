@@ -14,7 +14,7 @@ https://htmlcheatsheet.com/
 
 ### --------ZAD
 ```
-T30201 - Przygotuj witrynę składającą sięz trzech podstron pomiędzy którymi można przenosić się przy pomocy prostego menu
+T30201 - Przygotuj witrynę składającą się z trzech podstron pomiędzy którymi można przenosić się przy pomocy prostego menu
 ```
 ### --------Links
 
