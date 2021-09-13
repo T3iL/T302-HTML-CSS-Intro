@@ -1,4 +1,4 @@
-# 02 (2020.09.14) - HTML wstęp
+# 02 - HTML CSS Layout
 ## -------INFO
 HTML + CSS
 ```
