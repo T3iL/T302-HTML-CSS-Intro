@@ -3,7 +3,7 @@
 HTML + CSS
 ```
 1. HTML ( url )
-2. CSS (kaskadowość, grupowanie, class, id)
+2. CSS (kaskadowość, grupowanie, diedziczenie, class, id)
 3. Multipages
 ```
 https://www.w3schools.com/html/html_intro.asp
