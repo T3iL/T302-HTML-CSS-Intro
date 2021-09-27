@@ -54,6 +54,8 @@ T30202 - Odwróć działanie znaczników <sup> i </sub> na stronie www
 T30203 - Dodaj interakcję do przycisku (div) polegającą na znikaniu elementu po najechaniu na niego kursorem myszy.
 
 T30204 - Przygotuj witrynę składającą się z trzech podstron pomiędzy którymi można przenosić się przy pomocy prostego menu
+
+T30205 - popraw stronę pseudoclasses.html w taki sposób aby elementy menu były wypełnione tłem w całości po najechaniu kursorem myszy.
 ```
 ### --------Links
 
